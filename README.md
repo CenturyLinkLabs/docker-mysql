@@ -1,5 +1,6 @@
 docker-mysql
 ============
+[![](https://badge.imagelayers.io/centurylink/mysql.svg)](https://imagelayers.io/?images=centurylink/mysql:latest 'Get your own badge on imagelayers.io')
 
 Example usage: 
      `$ docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=pass@word01 centurylink/mysql`
